@@ -64,6 +64,18 @@ A concise, categorized summary of technical strengths focused on practical, prod
 
 ![Terrance's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tlvybrown8706&show_icons=true&theme=calm)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tlvybrown8706&layout=compact&theme=calm)
+
+
+## 📊 GitHub Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlvybrown8706&theme=monokai)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tlvybrown8706&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tlvybrown8706&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tlvybrown8706&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tlvybrown8706&theme=monokai)
+
 ---
 
 
