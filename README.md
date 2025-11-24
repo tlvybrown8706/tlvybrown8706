@@ -65,15 +65,14 @@ A concise, categorized summary of technical strengths focused on practical, prod
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=tlvybrown8706&show_icons=true&theme=calm)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=tlvybrown8706&theme=calm&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tlvybrown8706&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- 
 
 ## 📊 GitHub Summary
+
+![](https://github-readme-stats.vercel.app/api?username=tlvybrown8706&show_icons=true&theme=calm)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tlvybrown8706&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlvybrown8706&theme=calm)
 
